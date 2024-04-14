@@ -1,4 +1,4 @@
-Purpose of the code is to Demostrate Machine learning for network attack detection.
+Purpose of the code is to demostrate machine learning for network attack detection.
 
 
 **Train_Test_Network.csv**
