@@ -1,6 +1,6 @@
 Purpose of the code is to Demostrate Machine learning for network attack detection.
 
-**Train_Test_Network.csv **
+
 **Train_Test_Network.csv**
 File shows network traffic data logs used for model training and testing.
 
