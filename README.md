@@ -68,8 +68,8 @@ pip install scikit-learn
 Defaulting to user installation because normal site-packages is not writeable
 Collecting scikit-learn
   Downloading scikit_learn-1.4.2-cp312-cp312-win_amd64.whl.metadata (11 kB)
-Requirement already satisfied: numpy>=1.19.5 in c:\users\akagupta\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from scikit-learn) (1.26.4)
-Requirement already satisfied: scipy>=1.6.0 in c:\users\akagupta\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from scikit-learn) (1.13.0)
+Requirement already satisfied: numpy>=1.19.5 in c:\users\XXXX\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from scikit-learn) (1.26.4)
+Requirement already satisfied: scipy>=1.6.0 in c:\users\XXXX\appdata\local\packages\pythonsoftwarefoundation.python.3.12_qbz5n2kfra8p0\localcache\local-packages\python312\site-packages (from scikit-learn) (1.13.0)
 Collecting joblib>=1.2.0 (from scikit-learn)
   Downloading joblib-1.4.0-py3-none-any.whl.metadata (5.4 kB)
 Collecting threadpoolctl>=2.0.0 (from scikit-learn)
